@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently in my 6th semester at KR Mangalam University, majoring in Artificial Intelligence and Machine Learning.
-- 🔭 I’m currently working on **Computer Vision projects** and mastering the required tech stack.
+- 🎓 I'm currently in my 7th semester at KR Mangalam University, majoring in Artificial Intelligence and Machine Learning.
+- 🔭 I’m currently working on **Data Analysis Projects** and mastering the required tech stack.
 - 🌱 I’m constantly learning and building projects to grow the skills needed for the modern tech industry.
 - 💡 I enjoy solving practical problems by building intelligent, automated tools and AI agents.
 - ⚡ Fun fact: When I'm away from the keyboard, you'll probably find me reading, sketching, writing poetry, or making things out of paper! 
@@ -18,7 +18,7 @@
 
 **Languages:** `Python` | `Java` | `SQL` | `JavaScript` | `HTML` | `CSS`
 
-**AI / ML & Domains:** `Computer Vision` | `Natural Language Processing (NLP)` | `AI Agents` | `Machine Learning`
+**AI / ML & Domains:** `Computer Vision` | `Natural Language Processing (NLP)` | `AI Agents` | `Machine Learning` | `Data Engineering` | `Feature Engineering` |
 
 ---
 
