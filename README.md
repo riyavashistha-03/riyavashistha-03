@@ -135,18 +135,6 @@ I'm especially interested in roles where **analytical thinking, communication, p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyavashistha-03\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyavashistha-03\&layout=compact\&theme=default)
-
-</div>
-
----
-
 ## 🌱 Beyond Tech
 
 When I'm not working with data, you'll probably find me:
